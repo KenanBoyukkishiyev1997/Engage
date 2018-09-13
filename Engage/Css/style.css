@@ -1,0 +1,74 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.conteniar{
+	width: 80%;
+	margin: auto;
+}
+
+header{
+	background-color: green;
+	padding: 50px;
+}
+
+
+.engage{
+	display: flex;
+}
+
+.engage i{
+	font-size: 30px;
+	padding: 0 10px;
+	color: limegreen;
+}
+.engage h1{
+	color: limegreen;
+}
+
+
+.file p{
+	color: limegreen;
+	margin-bottom:15px;
+}
+
+.btn button{
+	height: 25px;
+	width: 100px;
+}
+
+
+.superrior{
+	display:flex;
+
+}
+
+.superrior span{
+	color: grey;
+	margin-top: 7px;
+	padding: 0 12px;
+}
+
+.text{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.colobaration{
+	display: flex;
+}
+
+.colobaration .text p{
+	color: grey;
+	
+}
+
+.tag img{
+	width: 300px;
+	height: 300px;
+}
+
+.tag h2{
+     color: blue;
+}
